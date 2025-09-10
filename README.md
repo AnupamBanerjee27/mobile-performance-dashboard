@@ -10,4 +10,4 @@
 	KPIs: Top 3 performing models (Card visuals).
 3.	Added slicers (Brand, Year, Price Range).
 
-This process will gave a functional Mobile Brand Performance Dashboard with the required visuals and filters. 
+This process gave a functional Mobile Brand Performance Dashboard with the required visuals and filters. 
