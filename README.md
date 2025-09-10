@@ -1,5 +1,6 @@
 # mobile-performance-dashboard
 •	Dataset: phone_data.
+
 •	Process:
 1.	Imported into Power BI.
 2.	3–4 core visuals:
